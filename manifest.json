@@ -16,7 +16,7 @@
       "default_title": "Nazi Detector"
    },
    "content_scripts": [ {
-      "js": [ "myscript.js" ],
+      "js": [ "detector.js" ],
       "matches": [ "*://*/*" ],
       "run_at": "document_end"
    } ],
