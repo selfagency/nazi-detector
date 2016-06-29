@@ -8,4 +8,4 @@ To check if you were targeted by the (((Coincidence Detector))), see my other pr
 
 If you'd like to contribute names to the index, or if you are not a xenophobic ultra-nationalist, white nationalist, white supremacist, antisemite, "anti-Islam" extremist, or other form of racist trash, and you feel you've been unfairly included, please fork and send a pull request, or contact me on Twitter at [@selfagency](https://twitter.com/selfagency).
 
-Some Nazi idiots seem to think this is really funny and are proudly announcing their inclusion or seeking inclusion in this list. What they don't yet realize is that the joke is on them. ¯\_(ツ)_/¯
+Some Nazi idiots seem to think this is really funny and are proudly announcing their inclusion or seeking inclusion in this list. What they don't yet realize is that the joke is on them. `¯\_(ツ)_/¯`
