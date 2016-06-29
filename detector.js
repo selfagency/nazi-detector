@@ -1,11 +1,8 @@
 function echo(s, factor) {
-  var left = "";
-  var right = "";
   for (var i = 0; i < factor; i++) {
-    left += "卐";
-    right += "卐";
+    s="卐"+s+"卐";
   }
-  return left + s + right;
+  return s;
 }
 
 chrome.runtime.sendMessage(null, {op: "clear-title"}, null, function(){});
