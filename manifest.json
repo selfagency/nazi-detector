@@ -20,8 +20,8 @@
       "matches": [ "*://*/*" ],
       "run_at": "document_end"
    } ],
-   "description": "Detects Nazis, Klansmen, white supremacists, antisemites, identitarians, racist sh*tposters, ultra-nationalists, homophobes, Islamophobes, neoreactionary sh*tlords, alt-rightists, and other hateful, bigoted a-holes.",
+   "description": "Detects self-identified and suspected Nazis, Klansmen, white supremacists, antisemites, identitarians, racist shitposters, ultra-nationalists, homophobes, Islamophobes, neoreactionary shitlords, alt-rightists, and other hateful, bigoted a-holes.",
    "name": "Nazi Detector",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "18.613.5"
+   "version": "18.613.6"
 }
